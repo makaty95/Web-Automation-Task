@@ -1,0 +1,7 @@
+Utilities\TestData\Data.class
+Pages\Registeration\Registration.class
+Utilities\TestData\TestDataGenerator.class
+Pages\Login\Login.class
+Pages\ProductNavigation\Checkout.class
+Utilities\Selenium\DriverFactory.class
+Pages\ProductNavigation\NavigateToProducts.class
